@@ -1,6 +1,6 @@
 # MetaKGR
 
-Source codes and datasets for EMNLP 2019 paper [Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot Relations](https://www.baidu.com)
+Source codes and datasets for EMNLP 2019 paper [Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot Relations](https://arxiv.org/pdf/1908.11513.pdf)
 
 ## Requirements
 
