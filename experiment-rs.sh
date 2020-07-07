@@ -55,9 +55,7 @@ cmd="python3.6 -m src.experiments \
     $group_examples_by_query_flag \
     $use_action_space_bucketing_flag \
     --distmult_state_dict_path $distmult_state_dict_path \
-    --complex_state_dict_path $complex_state_dict_path \
     --conve_state_dict_path $conve_state_dict_path \
-    --ptranse_state_dict_path $ptranse_state_dict_path \
     --gpu $gpu \
     $ARGS"
 
