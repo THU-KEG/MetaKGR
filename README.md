@@ -53,7 +53,7 @@ data/NE
 ./experiment-rs.sh configs/fb15k-237-rs.sh --train <gpu-ID> --adaptation --checkpoint_path model/FB15K-237-point.rs.conve-xavier-n/a-200-200-3-0.001-0.3-0.1-0.5-400-0.02/checkpoint-<Epoch>.tar
 ```
 
-`<Epoch>` is a non-negative integer number representing the training epoch for meta-learning. We can assign `<Epoch>` to be 25 on FB15K-237.
+`<Epoch>` is a non-negative integer number representing the training epoch for meta-learning. We can assign `<Epoch>` to be 15 on FB15K-237.
 
 ## Test
 
