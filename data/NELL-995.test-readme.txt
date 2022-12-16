@@ -1,0 +1,6 @@
+entity:54122
+relation:200
+fact:150221
+degree:{
+	mean:0.26365945284367065
+	median:1.0}
